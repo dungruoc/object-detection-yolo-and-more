@@ -83,3 +83,6 @@ def thresholds_changed(thresholds):
 while True:
     if cv2.waitKey(0):
         break
+
+
+cv2.destroyAllWindows()

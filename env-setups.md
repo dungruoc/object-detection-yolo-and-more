@@ -17,6 +17,13 @@ Memory usage:   732.8MiB out of 7.7GiB
 Mounts:         --
 ```
 
+Mount dev source
+
+```bash
+multipass mount ~/src darnet-vm:/home/ubuntu/Dev/yolo-course
+```
+
+
 # Opencv
 
 1. Install dependancies
